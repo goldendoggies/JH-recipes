@@ -1,4 +1,6 @@
-This is a new README for the Project.recipes git brach.
+This is a new README for the new git brach.
+
+
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
@@ -22,7 +24,8 @@ second recipe
 
 Other items to create in the future:
 
-1. Links to other recipes/home
-2. Images of my recipes
-3. Check buttons and a JS script to tell me 'good job' once all steps have been  completed
-4. tbd
+1. [ ] Links to other recipes/home
+2. [ ] Images of my recipes
+3. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
+4. [ ] Access this project via Replit
+5.  tbd
