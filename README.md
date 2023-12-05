@@ -1,6 +1,6 @@
-This is a new README for the new git brach.
+This is a new README for the new 'development' git brach.
 
-
+This is a test to see if i can access multiple branches via Replit.
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
