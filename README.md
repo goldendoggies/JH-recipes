@@ -1,4 +1,7 @@
-This is a new README for the Project.recipes git brach.
+This is a new README for the Project.recipes git branch.
+
+I think i am understanding how to use git, github and replit. Now I can access all from Replit and adjust all three branches! wow
+
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
