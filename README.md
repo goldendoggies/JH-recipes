@@ -45,24 +45,28 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-```css
-SOME CSS CODE
+```CSS
 
-
-
-
+SOME CSS CODE 
 
 
 
 ```
 
+```SQL
+
+SELECT * FROM TABLE
+
+```
+
+
 ##  Other items to create in the future:
 
-[ ] Links to other recipes/home
-[ ] Images of my recipes
-[ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
-[X] Access this project via Replit
-[ ] tbd
+1. [ ] Links to other recipes/home
+2. [ ] Images of my recipes
+3. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
+4. [X] Access this project via Replit
+5. [ ] tbd
 
 
 ## Contributing
