@@ -45,7 +45,7 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-'''css
+```css
 SOME CSS CODE
 
 
@@ -54,7 +54,7 @@ SOME CSS CODE
 
 
 
-'''
+```
 
 ##  Other items to create in the future:
 
