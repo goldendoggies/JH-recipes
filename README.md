@@ -62,12 +62,15 @@ SELECT * FROM TABLE
 
 ##  Other items to create in the future:
 
-1. [ ] Links to other recipes/home
+1. [X] Links to other recipes/home
 2. [ ] Images of my recipes
 3. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
 4. [X] Access this project via Replit
 5. [ ] tbd
-
+[ ] Markup README.md file
+6. [ ] Add CSS to images and text on my recipe pages. 
+7. [ ] Build in the Landing Page project into this recipes project
+8. [ ] Add documentation on how 
 
 ## Contributing
 
