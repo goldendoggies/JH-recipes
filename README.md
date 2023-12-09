@@ -1,12 +1,13 @@
-This is a new README for the new git brach.
 
+# JH - recipes
 
+This is the README for the new 'UAT' git branch.
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
 
 
-Here are a few screenshots of it's current state.
+## Here are a few screenshots of the current state.
 
 homepage
 
@@ -21,11 +22,60 @@ second recipe
 ![Screen Shot 2023-12-03 at 11 23 42 AM](https://github.com/goldendoggies/JH-recipes/assets/95260164/76eb5320-3a41-4496-ae09-c322cb919e88)
 
 
+## Installation
 
-Other items to create in the future:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+```CSS
+
+SOME CSS CODE 
+
+
+
+```
+
+```SQL
+
+SELECT * FROM TABLE
+
+```
+
+
+##  Other items to create in the future:
 
 1. [ ] Links to other recipes/home
 2. [ ] Images of my recipes
 3. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
-4. [ ] Access this project via Replit
-5.  tbd
+4. [X] Access this project via Replit
+5. [ ] tbd
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
