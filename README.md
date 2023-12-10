@@ -1,7 +1,7 @@
 
 # JH - recipes
 
-This is the README for the new 'UAT' git branch.
+This is the README for the new 'DEVELOPMENT' git branch.
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
@@ -67,12 +67,7 @@ SELECT * FROM TABLE
 3. [ ] Add CSS to images and text on my recipe pages.
 3. 
 4. [X] Access this project via Replit
-5. [ ] Markup README.md file
-6. 
-7. [ ] Build in the Landing Page project into this recipes project
-8. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
-9. [ ] Add documentation on how ... 
-10. 
+5. [ ] tbd
 
 
 ## Contributing
