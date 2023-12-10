@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+This is a new README for the Project.recipes git branch.
+
+I think i am understanding how to use git, github and replit. Now I can access all from Replit and adjust all three branches! wow
+
+=======
 
 # JH - recipes
 
-This is the README for the new 'UAT' git branch.
+This is the README for the new 'development' git branch.
+>>>>>>> DEVELOPMENT
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
