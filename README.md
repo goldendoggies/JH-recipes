@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-This is a new README for the Project.recipes git branch.
-
-I think i am understanding how to use git, github and replit. Now I can access all from Replit and adjust all three branches! wow
-
-=======
 
 # JH - recipes
 
-This is the README for the new 'development' git branch.
->>>>>>> DEVELOPMENT
+This is the README for the new 'UAT' git branch.
+
 
 Check it out Live!
 https://goldendoggies.github.io/JH-recipes/
@@ -71,13 +65,14 @@ SELECT * FROM TABLE
 
 1. [X] Links to other recipes/home
 2. [ ] Images of my recipes
-3. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
+3. [ ] Add CSS to images and text on my recipe pages.
 4. [X] Access this project via Replit
-5. [ ] tbd
-[ ] Markup README.md file
-6. [ ] Add CSS to images and text on my recipe pages. 
-7. [ ] Build in the Landing Page project into this recipes project
+5. [X] Markup README.md filed
+6. [ ] Build in the Landing Page project into this recipes project
+7. [ ] Check buttons and a JS script to tell me 'good job' once all steps have been  completed
 8. [ ] Add documentation on how 
+
+
 
 ## Contributing
 
