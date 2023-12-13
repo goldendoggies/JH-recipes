@@ -1,7 +1,7 @@
 
 # JH - recipes
 
-This is the README for the new 'UAT' git branch.
+This is the README for the new 'DEVELOPMENT' git branch.
 
 
 Check it out Live!
