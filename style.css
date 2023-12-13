@@ -2,9 +2,14 @@
 img {
     height: auto;
     width: 100px;
+    border: 2px solid paleturquoise;
   }
 
 h1 {
 
     color: coral;
 }
+
+/* * {
+    border: 2px solid red;
+  } */
