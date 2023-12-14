@@ -1,7 +1,7 @@
 
 # JH - recipes
 
-This is the README for the new 'DEVELOPMENT' git branch.
+This is the README for the 'MAIN' git branch. This will serve as my model 'PRODUCTION' region.
 
 
 Check it out Live!
