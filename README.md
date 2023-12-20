@@ -23,47 +23,46 @@ second recipe
 ![Screen Shot 2023-12-03 at 11 23 42 AM](https://github.com/goldendoggies/JH-recipes/assets/95260164/76eb5320-3a41-4496-ae09-c322cb919e88)
 
 
+## Technologies
+JavaScript
+CSS
+HTML
+
+
+## Tools
+Visual Studio Code
+Git and GitHub
+UNIX Terminal
+
+
 ## Installation
 
-Use the git clone feature to pull this repository from github and install it on your local machine. Then cd to the main directory, JH-RECIPES and open the index.html file. This should open a browser window on your default web browser.
+Use the git clone feature to pull this repository from github and install it on your local machine. 
 
 ```bash
-git clone SSH for this repository
 
-cd to location
+$ git clone git@github.com:goldendoggies/JH-recipes.git
 
-open ./index.html
+```
+
+Then cd to the main directory, JH-RECIPES 
+
+```bash
+
+$ cd JH-recipes
+
+```
+Open the index.html file. This should open a browser window on your default web browser.
+
+```bash
+
+$ open ./index.html
 
 ```
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-```CSS
-
-SOME CSS CODE 
-
-
-
-```
-
-```SQL
-
-SELECT * FROM TABLE
-
-```
+Enjoy!
 
 
 ##  Other items to create in the future:
