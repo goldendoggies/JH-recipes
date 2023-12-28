@@ -1,7 +1,7 @@
 
 # JH - recipes
 
-This is the README for the new 'DEVELOPMENT' git branch.
+This is the README for the new and improved JH - Recipes website. I am using this as a learning tool to learn about web development concepts and document them in a fun and creative way.
 
 
 Check it out Live!
@@ -24,15 +24,15 @@ second recipe
 
 
 ## Technologies
-JavaScript
-CSS
-HTML
+1. JavaScript
+2. CSS
+3. HTML
 
 
 ## Tools
-Visual Studio Code
-Git and GitHub
-UNIX Terminal
+1. Visual Studio Code
+2. Git and GitHub
+3. UNIX Terminal
 
 
 ## Installation

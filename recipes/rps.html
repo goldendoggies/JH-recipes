@@ -9,9 +9,48 @@
   <body>
 
     <h1>ROCK PAPER SCISSORS</h1>
-    <script src="javascript2.js"></script>
+    <section class="game">
+       
+        <!--Display Score of player and computer -->
+      <div class="score">  
+          <div class="playerScore">
+              <h2>Player</h2>
+              <p class="p-count count">0</p>
 
-    <button onclick="playgame()">Click to play</button>
+          </div>       
+          <div class="computerScore">
+              <h2>Computer</h2>
+              <p class="c-count count">0</p>
+
+          </div>
+          <div class="tieScore">
+            <h2>Ties</h2>
+            <p class="t-count count">0</p>
+
+        </div>
+      </div>
+     
+      <div class="move">Choose your move</div>
+       
+        <!--Number of moves left before game ends -->
+      <div class="movesleft">Moves Left: 10 </div>
+       
+        <!--Options available to player to play game -->
+      <div class="options">
+          <button class="rock">Rock</button>
+          <button class="paper">Paper</button>
+          <button class="scissor">Scissors</button>    
+      </div>
+       
+        <!--Final result of game -->
+      <div class="result"></div>
+       
+        <!--Reload the game -->
+      <button class="reload"></button>
+
+    </section>
+
+    <script src="../app.js"></script>
 
     <ul>
 
