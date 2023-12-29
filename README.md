@@ -61,7 +61,7 @@ Then cd to the main directory, JH-RECIPES
 $ cd JH-recipes
 
 ```
-Open the index.html file. This should open a browser window on your default web browser.
+Open the index.html file. This should open a browser window on your default web browser and take you to a local instance of the webpage.
 
 ```bash
 
